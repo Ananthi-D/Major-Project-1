@@ -1,0 +1,11 @@
+# frontend
+node_modules
+build
+
+# backend
+venv
+__pycache__
+db.sqlite3
+
+# common
+.env
